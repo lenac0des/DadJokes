@@ -30,9 +30,14 @@ body {
 
 h3 {
     margin: 0;
-    opacity: .05;
+    opacity: .40;
     letter-spacing: 2px;
+    color: black;
 }
+
+
+
+
 
 .joke {
     font-size: 30px;
